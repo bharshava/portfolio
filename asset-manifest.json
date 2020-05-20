@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/balanaguharsha/portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/balanaguharsha/portfolio/static/js/main.de2f2df6.chunk.js",
+    "main.js.map": "/balanaguharsha/portfolio/static/js/main.de2f2df6.chunk.js.map",
+    "runtime-main.js": "/balanaguharsha/portfolio/static/js/runtime-main.4b8a5136.js",
+    "runtime-main.js.map": "/balanaguharsha/portfolio/static/js/runtime-main.4b8a5136.js.map",
+    "static/js/2.65249882.chunk.js": "/balanaguharsha/portfolio/static/js/2.65249882.chunk.js",
+    "static/js/2.65249882.chunk.js.map": "/balanaguharsha/portfolio/static/js/2.65249882.chunk.js.map",
+    "index.html": "/balanaguharsha/portfolio/index.html",
+    "precache-manifest.e30c8fe234d3920de27afc0d412d884a.js": "/balanaguharsha/portfolio/precache-manifest.e30c8fe234d3920de27afc0d412d884a.js",
+    "service-worker.js": "/balanaguharsha/portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/balanaguharsha/portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.65249882.chunk.js.LICENSE.txt": "/balanaguharsha/portfolio/static/js/2.65249882.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/balanaguharsha/portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b8a5136.js",
+    "static/js/2.65249882.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.de2f2df6.chunk.js"
+  ]
+}
